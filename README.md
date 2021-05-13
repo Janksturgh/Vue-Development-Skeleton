@@ -2,8 +2,8 @@
 
 ## About this project
 The basic usage for this project came about with the need to have a quick
-
-codebase that can run VueJS on a node express server.
+codebase that can run VueJS on a node express server, with the goal in mind to
+quickly build a website that consumes an API to render dynamic data to the frontend.
 
 ### Tech used
 - Bulma.io - CSS Framework  
@@ -23,3 +23,7 @@ routing and Vue Axios as a lightweight wrapper around Axios.
 2. ```yarn serve```
 ### To package files for production
 1. ```yarn build```
+
+## To Do
+- Implement Vuex for the project to become better scalable
+

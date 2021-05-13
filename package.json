@@ -1,8 +1,8 @@
 {
-  "name": "the-one",
+  "name": "vue-development-skeleton",
   "version": "1.0.0",
-  "description": "A project that consumes the Lord of the Rings API",
-  "repository": "https://github.com/Janksturgh/The-One-Api.git",
+  "description": "A starter kit for vuejs development",
+  "repository": "https://github.com/Janksturgh/Vue-Development-Skeleton.git",
   "author": "Jai Barlow <jai.barlow@education.govt.nz>",
   "license": "MIT",
   "private": false,
