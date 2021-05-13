@@ -17,3 +17,9 @@ with the Express server and allow for hot reloading.
 
 This project also comes installed with the Vue Router for a quick setup of
 routing and Vue Axios as a lightweight wrapper around Axios.
+
+## To get up and running
+1. ```yarn install```
+2. ```yarn serve```
+### To package files for production
+1. ```yarn build```
