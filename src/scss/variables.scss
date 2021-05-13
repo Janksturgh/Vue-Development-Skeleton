@@ -1,0 +1,32 @@
+/*
+* Config for the styles
+*/
+// --------  Base font family  --------
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+$font-family-brand: 'BarMontserratlow', sans-serif;
+$font-family-base: $font-family-brand;
+
+// --------  Base font size  --------
+/* stylelint-disable-next-line unit-disallowed-list */
+$font-size-base: 18px;
+
+// --------  font weights  --------
+
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-book: 400;
+$font-weight-medium: 500;
+$font-weight-semi-bold: 600;
+$font-weight-bold: 700;
+$font-weight-extra-bold: 800;
+$font-weight-black: 900;
+
+// --------  font sizes  --------
+
+$font-size-x-large: 3.552rem;
+$font-size-large: 2.441rem;
+$font-size-large-medium: 1.953rem;
+$font-size-medium: 1.563rem;
+$font-size-small-medium: 1.25rem;
+$font-size-small: 1rem;
+$font-size-x-small: 0.833rem;
