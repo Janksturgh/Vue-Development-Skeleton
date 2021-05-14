@@ -13,7 +13,7 @@ quickly build a website that consumes an API to render dynamic data to the front
 - Axios  
 
 Webpack Dev Middlesware & Webpack Hot Middleware is also used to work
-with the Express server and allow for hot reloading.
+with the Express server and allow for hot reloading alongside file change watchers.
 
 This project also comes installed with the Vue Router for a quick setup of
 routing and Vue Axios as a lightweight wrapper around Axios.
