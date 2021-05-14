@@ -14,20 +14,15 @@
     <p>Webpack Dev Middlesware & Webpack Hot Middleware is also used to work <br />with the Express server and allow for hot reloading.</p>
     <p>This project also comes installed with the Vue Router for a quick setup of <br />routing and Vue Axios as a lightweight wrapper around Axios.</p>
     <p>See below for how raw data gets rendered out</p>
-    <div v-for="book in $attrs.books">
-      {{ book }}
+    <div v-for="books in $attrs.books">
+      {{ books }}
     </div>
   </div>
 </template>
 
 <script>
 	export default {
-    name: "Home",
-    data(){
-      return {
-      books: null,
-      }
-    }
+    name: "Home"
 	}
 </script>
 

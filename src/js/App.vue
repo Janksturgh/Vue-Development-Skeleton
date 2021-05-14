@@ -16,12 +16,7 @@
 			Header,
 			Main,
       Footer,
-		},
-		data() {
-			return {
-				books: null
-			}
-		},
+		}
 	}
 </script>
 
