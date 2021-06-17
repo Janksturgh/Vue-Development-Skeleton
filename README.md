@@ -5,6 +5,8 @@ The basic usage for this project came about with the need to have a quick
 codebase that can run VueJS on a node express server, with the goal in mind to
 quickly build a website that consumes an API to render dynamic data to the frontend.
 
+This skeleton comes with an example of how an api could be simply implemented into VueJS
+
 ### Tech used
 - Bulma.io - CSS Framework  
 - Express - Node.js Framework  
